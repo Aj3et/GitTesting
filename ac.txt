@@ -1,0 +1,10 @@
+ Volume in drive E is Others
+ Volume Serial Number is 3814-5331
+
+ Directory of E:\gitRepo
+
+01/13/2018  10:07 PM    <DIR>          .
+01/13/2018  10:07 PM    <DIR>          ..
+01/13/2018  10:07 PM                 0 ac.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   6,817,443,840 bytes free
